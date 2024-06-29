@@ -7,7 +7,7 @@ This website allows you to use some useful methods in the database to collect bo
 
 Detailed methods, code introductions, and deployment methods can be found in the A detailed introduction to this project.pdf file.
 
-![alt text](image.png)
+![alt text](/images/intro.png)
 
 If this project is helpful to you, please don't forget to click STAR🌟!
 My contact information is huangjuncarlin@outlook.com. If you have any questions, please don't hesitate to contact me directly~
